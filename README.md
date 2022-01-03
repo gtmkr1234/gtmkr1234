@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center" width="100%">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gtmkr1234&show_icons=true&theme=aura">
+</p>
 
-<!--
-**gtmkr1234/gtmkr1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Krishna Gautam
+- 👀 I’m interested in Computers and Sciences.
+- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
+- 🏫 I'm currently studying Data Structures and Algorithms through Java.
+- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
+- 📫 You can reach me @ krishna.gautam_cs20@gla.ac.in or the mail in my Profile.
 
-Here are some ideas to get you started:
+<!-- ![Krishna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtmkr1234) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" width="100%">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtmkr1234&theme=aura">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=gtmkr1234&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&sideNums=A177FE&currStreakNum=A177FE&sideLabels=61FEC9&currStreakLabel=61FEC9&background=15141B&ring=61FEC9&fire=DD2727&stroke=DD5ACF&border=E4E2E2">
+</p>
