@@ -2,7 +2,7 @@ import java.util.*;
 class student{
     int Rollno;
     String name;
-    int marks[];
+    int[] marks;
     Scanner inp= new Scanner(System.in);
     student(){
         System.out.println("Enter the Roll no of the student");
@@ -35,8 +35,8 @@ class Stumain{
         for(var i=0; i<arr.length; i++){
             arr[i]= new student();
         }
-        for(var i=0; i<arr.length; i++){
-            arr[i].display();
+        for (student student : arr) {
+            student.display();
         }
     }
 }
