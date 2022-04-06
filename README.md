@@ -44,7 +44,6 @@
 
 
 ## Contribution & Streak:
-![snake gif](https://github.com/gtmkr1234/gtmkr1234/github-contribution-grid-snake.gif)
 <p align="center" >
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=gtmkr1234">
 </p> 
