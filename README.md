@@ -5,17 +5,16 @@
 <img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
 
 
-<img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </p>
 <br> <br>
 
-<h1 align="right">Hello There, I am Krishna Gautam</h1>
+<h1 align="left">Hello There, I am Krishna Gautam</h1>
 
 
 ```
 - 🔭 I’m currently working on my coding skills
 
-- 🌱 I’m currently learning code
+- 🌱 I’m currently exploring my interests...
 ```
 
 ## My Github Stats:
@@ -45,7 +44,7 @@
 
 
 ## Contribution & Streak:
-![snake gif](https://github.com/gtmkr1234/gtmkr1234/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gtmkr1234/gtmkr1234/github-contribution-grid-snake.gif)
 <p align="center" >
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=gtmkr1234">
 </p> 
