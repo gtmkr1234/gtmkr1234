@@ -1,46 +1,82 @@
+<a href="https://www.linkedin.com/in/gtmkr1234/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"/>
+</a>
+<a href="https://twitter.com/krishangautamd3" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="38" alt="twitter logo"/>
+</a>
+<img align="right" src="https://komarev.com/ghpvc/?username=gtmkr1234&label=Profile+Views&style=plastic" alt="gtmkr1234" />
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/krishna-gautam-571ab1144/">
-<img align="left" alt="Krishna Gautam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
-<img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
-
-
-</p>
-<br> <br>
-
-<h1 align="left">Hello There, I am Krishna Gautam</h1>
-
-
-```
-- 🔭 I’m currently working on my coding skills
-
-- 🌱 I’m currently exploring my interests...
-```
-
-## My Github Stats:
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=gtmkr1234"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtmkr1234"> 
-
-
-## IDE/Editor (s) In Use:
-<img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<br>
 <br>
 
+<div align="center">
 
-<!--- Flags --->
-## Languages and Tools:
-<a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<br>
+## 💻 Tech Stack:
 
+![][git] ![][github] ![][vscode] ![]<br>
+![][c] ![][dart] ![][java] ![][python] ![][php] <br>
+![][flutter] ![][mysql]
 
-## See me at:
-<a href="https://https://www.codechef.com/users/gtmkr1234"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a>
-<br> <br>
+## 📊 GitHub Stats:
+
+| _Github Stats_ |  _Streaks_   |
+| :------------: | :----------: |
+|   ![][stats]   | ![][streaks] |
+
+## Top Languages
+
+![][langs]
+
+## Contribution:
+
+![][snake] <br> ![][graph]
+
+![][quote] <br> ![][meme]
+
+</div>
+
+<!----------------------------------{ reference links }--------------------------------->
+
+[stats]: https://github-readme-stats.vercel.app/api?username=gtmkr1234&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=gtmkr1234&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=gtmkr1234&theme=dark&hide_border=false#gh-light-mode-only
+[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+[meme]: https://random-memer.herokuapp.com
+
+<!----------------------------------{ language badges }--------------------------------->
+
+[c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
+[c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B
+[dart]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart
+[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java
+[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[php]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3
+[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5
+[php]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php
+[shell]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
+[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
+[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+
+<!----------------------------------{ contribution stats }--------------------------------->
+
+[snake]: https://github.com/gtmkr1234/gtmkr1234/blob/output/snake.svg
+[graph]: https://activity-graph.herokuapp.com/graph?username=gtmkr1234&theme=react-dark&hide_border=false&area=true
+
+<!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+ -->
 
 
 ## Contribution & Streak:
