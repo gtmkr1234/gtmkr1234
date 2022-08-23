@@ -13,7 +13,7 @@
 
 ## 💻 Tech Stack:
 
-![][git] ![][github] ![][vscode] ![]<br>
+![][github] ![][vscode]<br>
 ![][c] ![][dart] ![][java] ![][python] ![][php] <br>
 ![][flutter] ![][mysql]
 
