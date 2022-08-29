@@ -38,7 +38,7 @@
 <!----------------------------------{ reference links }--------------------------------->
 
 [stats]: https://github-readme-stats.vercel.app/api?username=gtmkr1234&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs?username=gtmkr1234&show_icons=true&locale=en&layout=compact" alt="gtmkr1234"
+[langs]: https://github-readme-stats.vercel.app/api/top-langs?username=gtmkr1234&show_icons=true&locale=en&layout=compact"
 
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=gtmkr1234&theme=dark&hide_border=false#gh-light-mode-only
 [quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
