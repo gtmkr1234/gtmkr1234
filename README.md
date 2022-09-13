@@ -14,8 +14,8 @@
 ## 💻 Tech Stack:
 
 ![][github] ![][vscode]<br>
-![][c] ![][dart] ![][java] ![][python] ![][php] <br>
-![][flutter] ![][mysql]
+![][c] ![][java] ![][python] ![][php] <br>
+![][mysql]
 
 ## 📊 GitHub Stats:
 
