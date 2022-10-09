@@ -5,10 +5,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="38" alt="twitter logo"/>
 </a>
 <img align="right" src="https://komarev.com/ghpvc/?username=gtmkr1234&label=Profile+Views&style=plastic" alt="gtmkr1234" />
+[![@gtm_krishna's Holopin board](https://holopin.io/api/user/board?user=gtm_krishna)](https://holopin.io/@gtm_krishna)
 
 <br>
 <br>
-[![@gtm_krishna's Holopin board](https://holopin.io/api/user/board?user=gtm_krishna)](https://holopin.io/@gtm_krishna)]
 
 <div align="center">
 
