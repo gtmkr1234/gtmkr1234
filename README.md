@@ -8,7 +8,7 @@
 
 <br>
 <br>
-[![@gtm_krishna's Holopin board](https://holopin.io/api/user/board?user=gtm_krishna)](https://holopin.io/@gtm_krishna)
+[![@gtm_krishna's Holopin board](https://holopin.io/api/user/board?user=gtm_krishna)](https://holopin.io/@gtm_krishna)]
 
 <div align="center">
 
