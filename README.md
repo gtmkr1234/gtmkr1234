@@ -1,6 +1,3 @@
-[![@gtm_krishna's Holopin board](https://holopin.io/api/user/board?user=gtm_krishna)](https://holopin.io/@gtm_krishna)
-
-
 <a href="https://www.linkedin.com/in/gtmkr1234/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"/>
 </a>
@@ -18,7 +15,7 @@
 
 ![][github] ![][vscode]<br>
 ![][c] ![][java] ![][python] ![][php] <br>
-![][mysql]
+![][mysql] ![][shell]
 
 ## 📊 GitHub Stats:
 
@@ -59,14 +56,11 @@
 [html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5
 [php]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php
 [shell]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
-[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
 [github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
 <!----------------------------------{ contribution stats }--------------------------------->
-
-[snake]: https://github.com/gtmkr1234/gtmkr1234/blob/output/snake.svg
 [graph]: https://activity-graph.herokuapp.com/graph?username=gtmkr1234&theme=react-dark&hide_border=false&area=true
 
 <!--
