@@ -29,7 +29,7 @@
 
 ## Contribution:
 
-![][snake] <br> ![][graph]
+![][graph]
 
 ![][quote] <br> ![][meme]
 
