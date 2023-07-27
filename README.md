@@ -25,7 +25,7 @@
 
 ## Top Languages
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtmkr1234&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtmkr1234&langs_count=8)](https://github.com/gtmkr1234/github-readme-stats)
 
 
 ## Contribution:
